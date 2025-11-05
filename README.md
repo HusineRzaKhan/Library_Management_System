@@ -1,3 +1,10 @@
+# Short Description
+A Flutter-based Library Management System developed for University, enabling students and administrators to manage books, borrowing, and requests efficiently. It features secure authentication, real-time Firebase integration, and an intuitive interface for both mobile and desktop platforms.
+
+
+# Detail of the Project
+---------------------------
+
 # COMSATS Library Management System
 
 A comprehensive Flutter-based library management application designed for COMSATS University, enabling efficient book management, borrowing, and administrative operations.
@@ -50,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/comsats_library.git
+   git clone https://github.com/HusineRzaKhan/Library_Management_System.git
    cd comsats_library
    ```
 
@@ -225,7 +232,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@HusineRzaKhan](https://github.com/HusineRzaKhan)
 
 ## 🙏 Acknowledgments
 
@@ -236,7 +243,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email HussainRazaKhanBaloch@gmail.com or open an issue in the repository.
 
 ---
 
