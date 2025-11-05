@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237715661231",
+    "project_id": "comsats-library-3090c",
+    "storage_bucket": "comsats-library-3090c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237715661231:android:d48cfd42771bebdfdb0f5a",
+        "android_client_info": {
+          "package_name": "com.example.comsats_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tvKvog6BYym9E8eKPA2MRhN8PGyo6GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
