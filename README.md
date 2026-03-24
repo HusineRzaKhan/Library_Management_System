@@ -1,6 +1,12 @@
 # Short Description
 A Flutter-based Library Management System developed for University, enabling students and administrators to manage books, borrowing, and requests efficiently. It features secure authentication, real-time Firebase integration, and an intuitive interface for both mobile and desktop platforms.
 
+## 💖 Support my Open-Source Journey
+
+I am a software engineer and student dedicated to building tools that give users back their digital agency. If my work has saved you time, solved a technical headache, or improved your workflow, consider supporting my independent development!
+
+☕ **[Support my work on Patreon (Buy Me a Coffee)](https://patreon.com/HussainRazaKhan)**
+
 
 # Detail of the Project
 ---------------------------
